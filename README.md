@@ -12,7 +12,7 @@
 
 ### Site 💻
 
-- [UAXE Creative Agency](uaxe-creative-agency.netlify.app)
+- [UAXE Creative Agency](https://uaxe-creative-agency.netlify.app)
 
 ## Linguagens: 🚀
 - HTML
